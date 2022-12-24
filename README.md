@@ -29,8 +29,8 @@ Users should be able to:
 
 ![Desktop](https://raw.githubusercontent.com/GHWhite419/Huddle-landing-page-coding-challenge/main/screenshots/Desktop.png)
 ![Mobile](https://raw.githubusercontent.com/GHWhite419/Huddle-landing-page-coding-challenge/main/screenshots/Mobile.png)
-![Tablet portrait](https://raw.githubusercontent.com/GHWhite419/Huddle-landing-page-coding-challenge/main/screenshots/Tablet portrait.png)
-![Tablet landscape](https://raw.githubusercontent.com/GHWhite419/Huddle-landing-page-coding-challenge/main/screenshots/Tablet landscape.png)
+![Tablet portrait](https://raw.githubusercontent.com/GHWhite419/Huddle-landing-page-coding-challenge/main/screenshots/Tablet%20portrait.png)
+![Tablet landscape](https://raw.githubusercontent.com/GHWhite419/Huddle-landing-page-coding-challenge/main/screenshots/Tablet%20landscape.png)
 
 ### Links
 
